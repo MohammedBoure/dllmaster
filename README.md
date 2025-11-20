@@ -1,4 +1,4 @@
-# DLLMaster: Advanced DLL Analysis & Proxying Toolkit
+# DLLMaster: DLL Analysis & Proxying Toolkit
 
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue)
 ![Python](https://img.shields.io/badge/Python-3.x-yellow)
